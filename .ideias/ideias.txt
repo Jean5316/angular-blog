@@ -1,0 +1,2 @@
+Sempre analizar o layout que vai ultilizar no site
+apos isso definir os componentes do layout
